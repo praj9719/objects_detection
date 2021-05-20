@@ -1,1 +1,1 @@
-# Object Detection using flask
+http://34.72.141.162:5050/detect

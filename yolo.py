@@ -1,7 +1,6 @@
 import os
 import time
 import urllib
-
 import numpy as np
 import cv2
 
